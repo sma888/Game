@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="myStyle" parent="Theme.Design.NoActionBar">
+        <item name="android:windowBackground">#FED6BC</item>
+        <item name="colorPrimary">#FDEED9</item>
+        <item name="fontFamily">Times New Roman</item>
+        <item name="backgroundTint">#C6D8FF</item>
+        <item name="android:textSize">22dp</item>
+    </style>
+
+
+    <style name="systemButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/roundendbutton</item>
+    </style>
+
+
+
+    <style name="TextStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#aacbb4</item>
+    </style>
+
+</resources>
